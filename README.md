@@ -1,6 +1,6 @@
 # Web-Design-Landing-Page-8
 
-#### :mag: This is a sample website home page which demonstrates the street style theme!
+#### :mag: This is a sample website home page which demonstrates the web design theme!
 
 #### 🖥️ Tech used: HTML & CSS
 
