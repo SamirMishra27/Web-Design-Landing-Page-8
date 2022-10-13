@@ -11,5 +11,5 @@
 #### :paperclip: Deploy link: **https://web-design-landing-page-8-sm27.netlify.app/**
 
 #### 🖼️ Pictures for Illustration:
-![](https://cdn.discordapp.com/attachments/663324452934778880/1030197783015198800/Screenshot_2022-10-14_004630.jpg)
+![](https://cdn.discordapp.com/attachments/663324452934778880/1030198326362112080/Screenshot_2022-10-14_004949.jpg)
 ![](https://cdn.discordapp.com/attachments/663324452934778880/1030197248799293480/Screenshot_20221014-004555.jpg)
